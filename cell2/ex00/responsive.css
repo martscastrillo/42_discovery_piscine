@@ -1,0 +1,19 @@
+
+       table{
+        border: 1px solid #333;
+height: 100vh;
+       }
+        td{
+            height: 200px;
+            
+        }
+        .first{
+           
+            background-color: rgb(117, 248, 248);
+            width: 50vw;
+            
+        }
+        .second{
+            background-color: rgb(166, 110, 220);
+            width: 50vw;
+        }

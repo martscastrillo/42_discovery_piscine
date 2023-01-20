@@ -8,6 +8,15 @@ body{
    
     width: 200px;
     height: 200px;
-    background-color: red;
+   
     border-radius: 50%;
+}
+.colorRed{
+    background-color: red;
+}
+.colorGreen{
+    background-color: green;
+}
+.colorBlue{
+    background-color: blue;
 }

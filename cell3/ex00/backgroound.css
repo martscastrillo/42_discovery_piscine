@@ -1,3 +1,25 @@
 .background{
     background-color: blueviolet;
+    
 }
+
+
+ .js_btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  border: 0;
+  color: inherit;
+  /* cursor: default; */
+
+  font: inherit;
+  line-height: normal;
+  overflow: visible;
+  padding: 20;
+  -webkit-user-select: none; /* for button */
+   -webkit-appearance: button; /* for input */
+     -moz-user-select: none;
+      -ms-user-select: none;
+
+
+ }

@@ -1,6 +1,6 @@
 "use strict";
 
-const btn=document.querySelector(".btn");
+const btn=document.querySelector(".js_btn");
 
 const background=document.querySelector(".background");
 function getRandomArbitrary() {
@@ -11,7 +11,7 @@ function getRandomArbitrary() {
 	for(let i = 0; i < 6; i++){
 		color = color + simbolos[Math.floor(Math.random() * 16)];
 	}
-   
+    
     document.body.style.background = color;
     return color
   }
